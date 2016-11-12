@@ -1,0 +1,35 @@
+
+header {
+    color: #262B4C;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 350%;
+    text-shadow: 4px 4px 4px #aaa;
+	border:4px solid white;
+    margin: 60px;
+    padding: 107px;
+    text-align:center;
+    background-image: URL(https://s-media-cache-ak0.pinimg.com/originals/95/7b/c8/957bc868105a43c60c6424e8ec3ac6aa.jpg)
+
+}
+
+body {
+    background-color: #5C74CC;
+}
+
+img {
+	float: right;
+	opacity: 0.8;
+} 
+
+
+div {
+    color: #262B4C;
+    font-family: 'Lato', sans-serif;
+    font-size: 105%;
+    padding: 10px;
+    margin-top: 40px;
+    background-color: #99A4CC;
+    text-align: left;
+	
+	
+}
